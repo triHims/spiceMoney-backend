@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      username: pepe
+      password: ${mongoPassword}
+      database: SpiceMoney
+      uri: mongodb+srv://**user**:**pass**@cluster0.lwt3d.mongodb.net/SpiceMoney?authSource=admin
+
